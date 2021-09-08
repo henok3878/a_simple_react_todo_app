@@ -51,7 +51,7 @@ function App() {
 
 
   return (
-    <div className= {"App"} >
+    <div className= {"App "+ classes.root} >
         <Header title = {"Todo"}/>
         <Grid 
           style={{padding: 16}}

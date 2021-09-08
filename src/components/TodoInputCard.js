@@ -9,7 +9,7 @@ import TextField from '@material-ui/core/TextField';
 
 const useStyles = makeStyles({
   root: {
-    minWidth: 275,
+    minWidth: 300,
   },
   bullet: {
     display: 'inline-block',

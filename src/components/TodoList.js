@@ -13,7 +13,6 @@ const useStyles = makeStyles((theme) => ({
 
 export default function TodoList(props) {
   const classes = useStyles();
-
   return (
     <div className={classes.root}>
       <List   
